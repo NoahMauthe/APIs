@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(name='API',
 
-version='1.0',
+version='1.1',
 
 description='API for Google Play and F-Droid',
 
@@ -10,7 +10,7 @@ url='https://github.com/NoahMauthe/APIs',
 
 author='Noah Mauthe',
 
-author_email='s8nomaut@stud.uni-saarland.de',
+author_email='noah.mauthe@cispa.de',
 
 license='MIT',
 
